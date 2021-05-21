@@ -20,5 +20,5 @@ chartJSRadar(scores=scores, labs=labs, maxScale=100, scaleStepWidth = 10, scaleL
 #chartJSRadar(scores=scores, labs=labs, maxScale =100, scaleLineWidth=20)
 #chartJSRadar(scores=scores, labs=labs, polyAlpha = 0.0, lineAlpha = 0.8)
 
-########################################################################################################
+##################################################################################################################
 
